@@ -1,7 +1,7 @@
 package ibrahim.firebasedemo;
 
 public class Config {
- 
+    // global topic to receive app wide push notifications
     // global topic to receive app wide push notifications
     public static final String TOPIC_GLOBAL = "global";
  
